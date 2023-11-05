@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462115136300",
+    "project_id": "flutter-flower-a2019",
+    "storage_bucket": "flutter-flower-a2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462115136300:android:19c13ca8c22f515dc68289",
+        "android_client_info": {
+          "package_name": "com.example.flower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQcCGFa9HfH9HEB-6fLAoSN3PHWzF60A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
